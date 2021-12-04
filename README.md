@@ -1,8 +1,12 @@
 __author__ = "Roman Guttmann"
+
 __license__ = "Open-Source license"
+
 __version__ = "1.1"
+
 __maintainer__ = "Roman Guttmann"
-__email__ = "mojgit@zupo.sk"
+
+__email__ = "github@zupo.sk"
 
 Creating EXE from python file using Pyinstaller.
 
